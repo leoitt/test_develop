@@ -1,0 +1,2 @@
+b script
+lines 2
